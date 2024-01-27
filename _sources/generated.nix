@@ -61,6 +61,18 @@
     };
     date = "2023-11-02";
   };
+  fuzzel = {
+    pname = "fuzzel";
+    version = "eeb4c8d159187ef7eb59a4a99baec67c2e797e9f";
+    src = fetchFromGitHub {
+      owner = "catppuccin";
+      repo = "fuzzel";
+      rev = "eeb4c8d159187ef7eb59a4a99baec67c2e797e9f";
+      fetchSubmodules = false;
+      sha256 = "sha256-yJvhc4ovgdxEdqFDxWNOkHJHTBF9UaCefetgCGhoG0A=";
+    };
+    date = "2024-01-24";
+  };
   glamour = {
     pname = "glamour";
     version = "3ef2c9533b6d3c4d6309a850765500179cf32d1c";

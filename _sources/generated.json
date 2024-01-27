@@ -99,6 +99,26 @@
         },
         "version": "0ce27b518e8ead555dec34dd8be3df5bd75cff8e"
     },
+    "fuzzel": {
+        "cargoLocks": null,
+        "date": "2024-01-24",
+        "extract": null,
+        "name": "fuzzel",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "catppuccin",
+            "repo": "fuzzel",
+            "rev": "eeb4c8d159187ef7eb59a4a99baec67c2e797e9f",
+            "sha256": "sha256-yJvhc4ovgdxEdqFDxWNOkHJHTBF9UaCefetgCGhoG0A=",
+            "type": "github"
+        },
+        "version": "eeb4c8d159187ef7eb59a4a99baec67c2e797e9f"
+    },
     "glamour": {
         "cargoLocks": null,
         "date": "2023-05-01",
