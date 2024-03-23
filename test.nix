@@ -59,6 +59,7 @@ in
         bottom = ctpEnable;
         btop = ctpEnable;
         fish = ctpEnable;
+        fzf = ctpEnable;
         glamour.catppuccin.enable = true;
         helix = ctpEnable;
         home-manager.enable = false;
