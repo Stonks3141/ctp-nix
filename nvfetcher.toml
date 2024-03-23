@@ -18,6 +18,10 @@ fetch.github = "catppuccin/btop"
 src.git = "https://github.com/catppuccin/fish.git"
 fetch.github = "catppuccin/fish"
 
+[fuzzel]
+src.git = "https://github.com/catppuccin/fuzzel.git"
+fetch.github = "catppuccin/fuzzel"
+
 [glamour]
 src.git = "https://github.com/catppuccin/glamour.git"
 fetch.github = "catppuccin/glamour"
