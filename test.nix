@@ -44,6 +44,8 @@ testers.runNixOSTest {
 
       services = {
         displayManager.sddm = enable;
+        forgejo.enable = true;
+        gitea.enable = true;
         xserver.enable = true; # required for sddm
       };
 
