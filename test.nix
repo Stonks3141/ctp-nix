@@ -133,6 +133,7 @@ testers.runNixOSTest {
               polybar top &
             '';
           };
+          swaync = enable;
         };
 
         wayland.windowManager.sway = enable;
